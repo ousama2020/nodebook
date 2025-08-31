@@ -24,7 +24,7 @@ src/app
 /.next/
 /out/
 .gitignore
-.package-lock.json
+package-lock.json
 postcss.config.mjs
 tailwind.config.js
 next-sitemap.config.js
