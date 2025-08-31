@@ -9,13 +9,21 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-
+src/app/(landing)
+src/app/api
+.env
+.env.*
 # testing
 /coverage
 
+src/components
+src/lib
+.claude/
 # next.js
+src/app
 /.next/
 /out/
+.gitignore
 
 # production
 /build
@@ -39,3 +47,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# fallback data
+/data
