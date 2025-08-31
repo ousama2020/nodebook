@@ -28,7 +28,7 @@ package-lock.json
 postcss.config.mjs
 tailwind.config.js
 next-sitemap.config.js
-
+next.config.mjs
 
 # production
 /build
